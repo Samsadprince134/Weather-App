@@ -25,7 +25,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: large;
+    font-size: smaller;
 }
 .wrapper{
     width:100vw;
@@ -190,7 +190,7 @@ h1 {
 }
 
 .parameter p:first-of-type{
-    font-size: 1.15rem;
+    font-size: 1rem;
     font-weight:600;
     text-transform: uppercase;
 }
